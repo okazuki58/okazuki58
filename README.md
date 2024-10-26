@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=okazuki58&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=okazuki58&show_icons=true&locale=ja)
 ![KazukiOgawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=okazuki58)
 
 <!--
