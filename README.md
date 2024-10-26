@@ -6,7 +6,7 @@
 </p>
 
 ### Language and tools
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,supabase,figma,tailwind,react)
 
 <!--
 **okazuki58/okazuki58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
