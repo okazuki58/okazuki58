@@ -5,6 +5,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okazuki58&show_icons=ture" />
 </p>
 
+### Language and tools
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+
 <!--
 **okazuki58/okazuki58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
