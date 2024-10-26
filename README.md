@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 <!--
 **okazuki58/okazuki58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
