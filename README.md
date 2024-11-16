@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### はじめまして。未経験からエンジニアへの転職を目指している小川と申します。
+こちらにポートフォリオをまとめていますので、ご覧いただけますと幸いです。
+https://my-portfolio-wine-delta-17.vercel.app/
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okazuki58&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okazuki58&show_icons=ture" />
