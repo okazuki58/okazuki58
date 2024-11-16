@@ -2,7 +2,7 @@
 
 はじめまして。未経験からエンジニアへの転職を目指している小川と申します。<br>
 こちらにポートフォリオをまとめていますので、ご覧いただけますと幸いです。<br>
-<a href="[https://example.com](https://my-portfolio-wine-delta-17.vercel.app/)" target="_blank" style="color: blue; text-decoration: underline;">ポートフォリオ</a>
+<a href="https://my-portfolio-wine-delta-17.vercel.app/" target="_blank" style="color: blue; text-decoration: underline;">ポートフォリオ</a>
 
 
 <p align="left"> 
